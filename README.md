@@ -10,123 +10,75 @@
 ╚═════╝ ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
 ```
 
-### `> Hi, I'm Alina` 👋
+### `> Привет, я Алина` 👋
 
-**Digital Marketer in EdTech · Vibe Coder · AI Enthusiast**
+**Диджитал-маркетолог в EdTech · Вайбкодер · AI-энтузиаст**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Digital+Marketer+%7C+EdTech+%26+AI+Education;Sales+Funnels+%2B+Landing+Pages+%2B+Content;Vibe+Coding+%F0%9F%A4%96+%7C+Prompt+Engineering;Building+the+future+of+online+education)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Диджитал-маркетолог+%7C+EdTech+%26+AI-образование;Воронки+продаж+%2B+Лендинги+%2B+Контент;Вайбкодинг+%F0%9F%A4%96+%7C+Промпт-инжиниринг;Строю+будущее+онлайн-образования)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Обо мне
 
-I live at the intersection of **marketing strategy** and **AI technology** — building systems that turn curiosity into conversion, and ideas into automated pipelines.
+Я живу на пересечении **маркетинговой стратегии** и **AI-технологий** — строю системы, которые превращают интерес в конверсию, а идеи — в автоматизированные пайплайны.
 
-By day, I'm a **Digital Marketer** in the EdTech space, specializing in AI & neural network education. I craft sales funnels, landing pages, and content strategies that help thousands of students start their journey in artificial intelligence. By night (and sometimes also by day 😄), I **vibe code** — building tools, automations, and experiments with AI assistants as my co-pilot.
+В рабочее время я **диджитал-маркетолог** в сфере EdTech, специализируюсь на образовании в области AI и нейросетей. Создаю воронки продаж, лендинги и контент-стратегии, которые помогают тысячам студентов начать путь в искусственный интеллект. А ещё — **вайбкожу**: строю инструменты, автоматизации и эксперименты с AI-ассистентами в качестве сопилота.
 
-> *"Don't just use AI. Build with it."*
-
----
-
-## 🚀 What I Do
-
-### 📈 Digital Marketing in EdTech
-- Design **end-to-end sales funnels** for online AI courses
-- Build and optimize **high-converting landing pages** (Tilda, HTML/CSS)
-- Drive **traffic acquisition** strategies across multiple channels
-- Develop **content strategies** and course curricula for AI learners
-- Analyze competitors, user behavior, and conversion metrics
-
-### 🤖 Vibe Coding & AI Automation
-- Build **AI agents and automation workflows** using Claude, GPT, and local LLMs
-- Engineer **prompts and pipelines** for marketing content generation
-- Automate repetitive marketing tasks with Python scripts and no-code tools
-- Explore **DeepSeek, open-source LLMs**, and emerging Chinese AI models
-- Experiment with **digital twin / AI avatar** concepts for personal branding
+> *«Не просто используй AI. Строй с ним.»*
 
 ---
 
-## 🛠️ Tech & Tools Stack
+## 🚀 Чем я занимаюсь
+
+### 📈 Диджитал-маркетинг в EdTech
+- Проектирую **сквозные воронки продаж** для онлайн-курсов по AI
+- Создаю и оптимизирую **высококонвертирующие лендинги** (Tilda, HTML/CSS)
+- Разрабатываю **стратегии привлечения трафика** по нескольким каналам
+- Формирую **контент-стратегии** и программы курсов для обучающихся AI
+- Анализирую конкурентов, поведение пользователей и метрики конверсии
+
+### 🤖 Вайбкодинг и AI-автоматизация
+- Строю **AI-агентов и автоматизированные воркфлоу** с Claude, GPT и локальными LLM
+- Разрабатываю **промпты и пайплайны** для генерации маркетингового контента
+- Автоматизирую рутинные маркетинговые задачи с помощью Python и no-code инструментов
+- Исследую **DeepSeek, опенсорс LLM** и новые китайские AI-модели
+- Экспериментирую с концепцией **цифрового двойника / AI-аватара** для личного бренда
+
+---
+
+## 🛠️ Технологии и инструменты
 
 <div align="center">
 
-| Category | Tools |
+| Категория | Инструменты |
 |---|---|
-| **AI & LLMs** | Claude AI · GPT-4 · DeepSeek · Local LLMs |
-| **Vibe Coding** | Python (basics) · HTML/CSS · Terminal · JSON |
-| **Marketing** | Tilda · Yandex Analytics · Email platforms · CRM |
-| **Design** | Figma · Canva |
-| **Productivity** | Google Sheets · Google Docs · Notion · Telegram bots |
+| **AI и LLM** | Claude AI · GPT-4 · DeepSeek · Локальные LLM |
+| **Вайбкодинг** | Python (основы) · HTML/CSS · Терминал · JSON |
+| **Маркетинг** | Tilda · Яндекс.Метрика · Email-платформы · CRM |
+| **Дизайн** | Figma · Canva |
+| **Продуктивность** | Google Sheets · Google Docs · Notion · Telegram-боты |
 
 </div>
 
 ---
 
-## 📊 My Focus Areas
+## 📊 Мои компетенции
 
 ```
-Marketing Strategy     ████████████████████  100%
-Sales Funnels          ███████████████████░   95%
-Landing Pages          ███████████████████░   95%
-AI Prompt Engineering  █████████████████░░░   85%
-Content Strategy       ████████████████████  100%
-Vibe Coding / Automation █████████████████░░░  82%
-EdTech Product Design  ██████████████████░░   90%
-```
-
----
-
-## 🌟 Current Projects
-
-- 🏫 **AI Education School** — marketing lead for an online school teaching neural networks & AI tools to beginners and professionals
-- 🧵 **Embroidery School** — digital marketing for an online haute couture & machine embroidery school
-- 🤖 **AI Marketing Agent** — building an automated content + funnel system powered by Claude AI
-- 💡 **Personal Brand** — developing thought leadership in EdTech marketing + AI content creation
-
----
-
-## 🧩 Skills as Keywords
-
-```python
-skills = {
-    "marketing":    ["funnels", "landing_pages", "copywriting", "CRO", "traffic", "email_marketing"],
-    "edtech":       ["course_design", "learning_paths", "onboarding", "student_retention"],
-    "ai_tools":     ["Claude", "GPT", "DeepSeek", "prompt_engineering", "LLM_agents"],
-    "vibe_coding":  ["Python_basics", "HTML/CSS", "automation", "API_integrations", "no_code"],
-    "analytics":    ["Yandex_Metrika", "conversion_tracking", "A/B_testing", "funnel_analysis"],
-}
+Маркетинговая стратегия   ████████████████████  100%
+Воронки продаж            ███████████████████░   95%
+Лендинги и конверсия      ███████████████████░   95%
+Промпт-инжиниринг         █████████████████░░░   85%
+Контент-стратегия         ████████████████████  100%
+Вайбкодинг / Автоматизация ████████████████░░░░   82%
+Продуктовый дизайн EdTech ██████████████████░░   90%
 ```
 
 ---
 
-## 💬 My Philosophy
+## 🌟 Текущие проекты
 
-```
-while True:
-    learn()
-    build()
-    automate()
-    repeat()
-```
-
-I believe the best marketers in 2026 are part strategist, part builder.
-You don't need to be a senior engineer — you need to **vibe code your way** to the solution.
-Pair sharp marketing intuition with AI tools and a little bit of prompt magic, and you can build things that used to take entire teams.
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-If you're into **EdTech, AI marketing, prompt engineering, or vibe coding** — let's talk.
-
-💌 Open to collaborations, speaking about AI in marketing, and sharing notes on what's working in EdTech funnels.
-
----
-
-*Made with 🤖 + ☕ + a healthy obsession with conversion rates*
-
-</div>
+- 🏫 **Школа AI-образования** — руковожу маркетингом онлайн-школы, обучающей нейросетям и AI-инструментам
+- 🧵
